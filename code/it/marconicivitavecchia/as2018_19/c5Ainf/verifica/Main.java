@@ -1,7 +1,7 @@
 
 // TODO Inserire il package corretto
 // nota: potete usare il suggerimento della lampadina a sinistra (scegliete l'unica opzione sensata). 
-package it.marconicivitavecchia.as2018_19.c5Ainf.verifica;
+package __TODO__;
 
 import javax.swing.*;
 
