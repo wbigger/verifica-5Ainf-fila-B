@@ -56,7 +56,3 @@ Usate StringBuilder per la costruzione della stringa. Convertitela correttamente
 **È possibile** consultare il progetto di esempio che è stato fornito durante la lezione.
 
 Al contrario, **non è possibile** comunicare o copiare dai compagni di classe.
-
-Il punteggio totale del compito è dato quindi da:
-- ogni casella spuntata e risolta correttamente vale il punteggio indicato
-- le caselle non spuntate valgono 0 punti
